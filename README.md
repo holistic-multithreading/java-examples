@@ -1,1 +1,5 @@
-# java-examples
+# run benchamrk
+
+```bash
+gradle jmh
+```
